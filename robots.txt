@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dino-game-beige.vercel.app/sitemap.xml
